@@ -1,6 +1,6 @@
 VERSION = VARS["version"]
-APP_NAME = "hatch"
-DISPLAY_NAME = "Hatch"
+APP_NAME = "hatcher"
+DISPLAY_NAME = "GOLDHAWK"
 AUTHOR = "Python Packaging Authority"
 
 
