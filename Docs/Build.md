@@ -1,5 +1,4 @@
 # Build configuration
-
 -----
 
 [Build targets](#build-targets) are defined as sections within `tool.hatch.build.targets`:
